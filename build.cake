@@ -1,4 +1,4 @@
-whatever
+whatever...
 
 #tool "nuget:?package=GitReleaseNotes"
 
