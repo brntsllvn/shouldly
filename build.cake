@@ -1,3 +1,5 @@
+whatever
+
 #tool "nuget:?package=GitReleaseNotes"
 
 var target = Argument("target", "Default");
